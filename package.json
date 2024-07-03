@@ -1,0 +1,22 @@
+{
+  "name": "myatm",
+  "version": "1.0.0",
+  "description": "This is an ATM program which is made by TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myATM"
+  },
+  "author": "Ali Siddiqui",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
